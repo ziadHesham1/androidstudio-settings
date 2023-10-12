@@ -1,0 +1,7 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="EditorAddCaretPerSelectedLine" />
+  <action id="Genymotion.gdm">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+  </action>
+  <action id="hg4idea.QGotoFromPatches" />
+</keymap>
