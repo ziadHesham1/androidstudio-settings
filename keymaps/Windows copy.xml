@@ -2,6 +2,7 @@
   <action id="Android.CleanRun" />
   <action id="Arrangement.Rule.Edit" />
   <action id="BookmarksView.Rename" />
+  <action id="CallHierarchy" />
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -39,6 +40,13 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GotoNextError" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="PopupHector" />
   <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="RenameElement">
