@@ -1,11 +1,8 @@
 <templateSet group="user">
-  <template name="madpoly" value="Madpoly.print(&#10;      '$msg$',&#10;      tag: &quot;$className$ &gt; $functionName$ ::&quot;,&#10;      developer: '$developerName$',&#10;      isInspect: $isInspect$,&#10;      isLog: $isLog$,&#10;    );" toReformat="true" toShortenFQNames="true">
+  <template name="madpoly" value="Madpoly.print(&#10;      '$msg$',&#10;      tag: &quot;$className$ &gt; $functionName$&quot;,&#10;      developer: 'ziad',&#10;      isInspect: true,&#10;      isLog: true,&#10;    );" toReformat="true" toShortenFQNames="true">
     <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="developerName" expression="expressionType(Expression)" defaultValue="ziad" alwaysStopAt="true" />
-    <variable name="isInspect" expression="" defaultValue="true" alwaysStopAt="true" />
-    <variable name="isLog" expression="" defaultValue="true" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
       <option name="FLUTTER" value="true" />
