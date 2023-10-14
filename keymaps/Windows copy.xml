@@ -68,10 +68,17 @@
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Table-startEditing" />
   <action id="Tree-startEditing" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="hg4idea.QGotoFromPatches" />
   <action id="tasks.switch" />
 </keymap>
