@@ -3,6 +3,7 @@
     <option name="addedPositive">
       <list>
         <option value="[log] (LoadingRepository) Ziad :: LoadingModel(HomeModel, LoadingStatus.finished)" />
+        <option value="D/EGL_emulation( 3006): app_time_stats:" />
         <option value="D/EGL_emulation( 5881): app_time_stats: avg=3342.03ms min=10.23ms max=46522.86ms" />
         <option value="D/EGL_emulation( 7623): app_time_stats:" />
         <option value="D/EGL_emulation( 9508): app_time_stats:" />
@@ -11,7 +12,7 @@
         <option value="D/EGL_emulation(10239): app_time_stats:" />
         <option value="D/EGL_emulation(10765): app_time_stats:" />
         <option value="D/EGL_emulation(11526): app_time_stats:" />
-        <option value="D/EGL_emulation( 3006): app_time_stats:" />
+        <option value="D/EGL_emulation( 5763): app_time_stats:" />
       </list>
     </option>
   </component>
