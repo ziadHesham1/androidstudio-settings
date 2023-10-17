@@ -57,12 +57,17 @@
   <action id="LocalHistory.ShowSelectionHistory">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
+  <action id="Move" />
   <action id="PopupHector" />
   <action id="RecentFiles" />
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="SaveAsTemplate">
     <keyboard-shortcut first-keystroke="shift alt t" />

@@ -2,9 +2,12 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="/EGL_emulation( 6396): app_time_stats:" />
         <option value="[log] (LoadingRepository) Ziad :: LoadingModel(HomeModel, LoadingStatus.finished)" />
         <option value="D/EGL_emulation( 3006): app_time_stats:" />
+        <option value="D/EGL_emulation( 5763): app_time_stats:" />
         <option value="D/EGL_emulation( 5881): app_time_stats: avg=3342.03ms min=10.23ms max=46522.86ms" />
+        <option value="D/EGL_emulation( 6396): app_time_stats:" />
         <option value="D/EGL_emulation( 7623): app_time_stats:" />
         <option value="D/EGL_emulation( 9508): app_time_stats:" />
         <option value="D/EGL_emulation( 9508): app_time_stats: avg=109.92ms min=9.71ms max=3158.01ms count=36" />
@@ -12,7 +15,7 @@
         <option value="D/EGL_emulation(10239): app_time_stats:" />
         <option value="D/EGL_emulation(10765): app_time_stats:" />
         <option value="D/EGL_emulation(11526): app_time_stats:" />
-        <option value="D/EGL_emulation( 5763): app_time_stats:" />
+        <option value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5tYXdqb2QudW5pZGV2cy5jby9hcGkvdXNlci9hdXRoL2xvZ2luIiwiaWF0IjoxNjk3NTMxMzc2LCJleHAiOjE2OTc1MzQ5NzYsIm5iZiI6MTY5NzUzMTM3NiwianRpIjoiNW4zWlhDeXBpeXRrMktjbyIsInN1YiI6IjEiLCJwcnYiOiJiYjY1ZDliOGZiZjBkYTk4MjdjOGVkMjMxZDljNTRjODE3ZjBmYmIyIn0.dM9QeAM_qJCoTgCfAUTZZLc9jCSrfnXZLy2nD1Gvnac" />
       </list>
     </option>
   </component>
