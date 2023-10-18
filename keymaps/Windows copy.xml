@@ -16,6 +16,7 @@
   </action>
   <action id="Dart.DartStyle">
     <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
@@ -60,6 +61,7 @@
   <action id="Move" />
   <action id="PopupHector" />
   <action id="RecentFiles" />
+  <action id="ReformatCode" />
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
