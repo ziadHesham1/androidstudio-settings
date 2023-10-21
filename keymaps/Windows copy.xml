@@ -72,6 +72,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
   <action id="Move" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
   <action id="PopupHector" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
@@ -119,9 +122,6 @@
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
-  <action id="XDebugger.MuteBreakpoints">
-    <keyboard-shortcut first-keystroke="shift alt m" />
   </action>
   <action id="XDebugger.SetValue" />
   <action id="android.deploy.ApplyChanges">
