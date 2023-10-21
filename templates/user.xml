@@ -8,4 +8,11 @@
       <option name="FLUTTER" value="true" />
     </context>
   </template>
+  <template name="scaffld" value="Scaffold(&#10;        appBar: AppBar(&#10;          title: const Text('$title$'),&#10;        ),&#10;        body: const Center(&#10;          child: Text('$body$'),&#10;        ),&#10;      );" toReformat="false" toShortenFQNames="true">
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
