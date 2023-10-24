@@ -1,4 +1,8 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="shift back_quote" />
+  </action>
   <action id="Android.CleanRun" />
   <action id="Arrangement.Rule.Edit" />
   <action id="BookmarksView.Rename" />
