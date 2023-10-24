@@ -4,8 +4,9 @@
       <list>
         <option value="/EGL_emulation( 6396): app_time_stats:" />
         <option value="[log] (LoadingRepository) Ziad :: LoadingModel(HomeModel, LoadingStatus.finished)" />
-        <option value="D/EGL_emulation( 9685): app_time_stats:" />
         <option value="D/EGL_emulation( 4970): app_time_stats:" />
+        <option value="D/EGL_emulation( 9685): app_time_stats:" />
+        <option value="D/EGL_emulation(10624): app_time_stats:" />
       </list>
     </option>
   </component>
