@@ -15,7 +15,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="constlocalization" value="MawjoodConstants.localization()." toReformat="true" toShortenFQNames="true">
+  <template name="constlocalization" value="MawjoodConstants.localization()." description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="DART_STATEMENT" value="true" />
       <option name="FLUTTER" value="true" />
